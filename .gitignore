@@ -1,0 +1,7 @@
+# Your personal data — never commit it
+privacymirror.db
+privacymirror.db-wal
+privacymirror.db-shm
+
+__pycache__/
+*.pyc
