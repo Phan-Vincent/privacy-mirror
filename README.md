@@ -1,5 +1,10 @@
 # PrivacyMirror
 
+> **Archived.** This was an early, minimal prototype. Development continues in
+> [data-broker-optout](https://github.com/Phan-Vincent/data-broker-optout), which adds an
+> authenticated control plane, encryption at rest, a durable job queue, per-broker
+> activation gates and a 200-test suite.
+
 A personal, self-hosted service that mirrors what [Incogni](https://incogni.com) does:
 it keeps a list of **data brokers**, holds a **profile** of your personal identifiers,
 generates **law-grounded deletion requests** (CCPA/CPRA + GDPR Article 17), **sends**
